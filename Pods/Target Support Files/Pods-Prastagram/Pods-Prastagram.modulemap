@@ -1,0 +1,6 @@
+framework module Pods_Prastagram {
+  umbrella header "Pods-Prastagram-umbrella.h"
+
+  export *
+  module * { export * }
+}

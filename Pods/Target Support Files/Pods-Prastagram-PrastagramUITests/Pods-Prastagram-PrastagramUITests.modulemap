@@ -1,0 +1,6 @@
+framework module Pods_Prastagram_PrastagramUITests {
+  umbrella header "Pods-Prastagram-PrastagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
