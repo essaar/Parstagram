@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Parstagram 1](https://user-images.githubusercontent.com/27513272/138534222-87a3e111-13ff-422a-820c-c1b4f8aae0bc.gif)
